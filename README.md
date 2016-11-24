@@ -1,0 +1,1 @@
+# Bypass-Same-origin-policy-by-using-picture
